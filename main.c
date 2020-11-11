@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <fcntl.h>
+/*Вывести все элементы массива, удовлетворяющие выражению 3k+1, где k – целое.*/
 void func1(int *ar,int size);
 
 int main (){
@@ -32,5 +33,5 @@ void func1(int *ar,int size){
             printf("%i \t", ar[i]);
         }
     }
- /////laba2�
+ /////laba2ë
 }
